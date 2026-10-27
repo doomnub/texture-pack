@@ -1,0 +1,31 @@
+{
+
+
+item.emerald.name=Jade
+item.shears.name=Balisong
+item.ingotIron.name=Iron Bar
+item.ingotGold.name=Gold Bar
+item.appleGold.name=Gapple
+
+tile.cloth.name=Cloth
+tile.cloth.white.name=White Cloth
+tile.cloth.orange.name=Orange Cloth
+tile.cloth.magenta.name=Magenta Cloth
+tile.cloth.lightBlue.name=Light Blue Cloth
+tile.cloth.yellow.name=Yellow Cloth
+tile.cloth.lime.name=Lime Cloth
+tile.cloth.pink.name=Pink Cloth
+tile.cloth.gray.name=Gray Cloth
+tile.cloth.silver.name=Light Gray Cloth
+tile.cloth.cyan.name=Cyan Cloth
+tile.cloth.purple.name=Purple Cloth
+tile.cloth.blue.name=Blue Cloth
+tile.cloth.brown.name=Brown Cloth
+tile.cloth.green.name=Green Cloth
+tile.cloth.red.name=Red Cloth
+tile.cloth.black.name=Black Cloth
+
+
+
+
+}
